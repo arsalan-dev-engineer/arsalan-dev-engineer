@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azzy001&show_icons=true&theme=radical)
 &nbsp;
 &nbsp;
