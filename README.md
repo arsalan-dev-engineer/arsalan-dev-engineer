@@ -24,7 +24,4 @@ Here are some ideas to get you started:
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
 
-![snake gif](https://https://github.com/Azzy001/Azzy001/tree/main/snk-main)
-
-
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width=850>
