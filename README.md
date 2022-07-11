@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width=850>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&layout=compact)](https://github.com/Azzy001)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
+
 
