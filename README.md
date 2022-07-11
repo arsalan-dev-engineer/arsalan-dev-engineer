@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azzy001&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azzy001&show_icons=true&theme=radical height=200)
 
 
-<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width="850">
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width=850>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&layout=compact)](https://github.com/Azzy001)
