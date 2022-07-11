@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![alt text](https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif)
-<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif" width="48">
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif" height=200 width="48">
