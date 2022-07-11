@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
 <br>
 <br>
-<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width=850>
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=250 width=850>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
