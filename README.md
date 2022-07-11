@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/panda.gif" height=250 width=425>
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/adventure.gif" height=250 width=425>
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
