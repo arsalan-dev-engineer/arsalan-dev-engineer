@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width=850>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
