@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width="850">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azzy001&repo=github-readme-stats)](https://github.com/Azzy001/Rock_Paper_Scissors/repo=github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azzy001a&https://github.com/Azzy001/Rock_Paper_Scissors)](https://github.com/anuraghazra/https://github.com/Azzy001/Rock_Paper_Scissors)
+
