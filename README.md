@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif)
-<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif" height=300 width="500">
+
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif" height=400 width="700">
