@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif)
+![alt text](https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif width="200")
