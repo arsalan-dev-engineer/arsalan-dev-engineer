@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/program3.gif" height=250 width=401>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
 
 
