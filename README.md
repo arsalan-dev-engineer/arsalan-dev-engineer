@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=350 width="800">
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=380 width="850">
