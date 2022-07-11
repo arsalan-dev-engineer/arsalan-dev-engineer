@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif = {width=20px height=200px})
+![alt text](https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif)
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball1.gif" width="48">
