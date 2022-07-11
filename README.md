@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
 
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width=850>
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
