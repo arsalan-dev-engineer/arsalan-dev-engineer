@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
 <br>
 <br>
-<img src="https://github.com/Azzy001/Azzy001/blob/main/images/panda.gif" height=250 width=400>
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/panda.gif" height=250 width=390>
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://github.com/Azzy001/Azzy001/blob/main/images/adventure.gif" height=250 width=400>
+<img src="https://github.com/Azzy001/Azzy001/blob/main/images/adventure.gif" height=250 width=390>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
