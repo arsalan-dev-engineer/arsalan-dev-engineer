@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azzy001&show_icons=true&theme=radical)
 
 
 <img src="https://github.com/Azzy001/Azzy001/blob/main/images/dragon-ball.gif" height=300 width="850">
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azzy001&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
