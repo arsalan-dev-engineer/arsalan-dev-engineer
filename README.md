@@ -12,4 +12,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
 <br>
 <br>
-![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/)
+![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
