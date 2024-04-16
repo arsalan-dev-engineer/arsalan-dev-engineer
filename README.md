@@ -33,6 +33,8 @@ Let's connect and explore ways to work together.
 &nbsp;
 &nbsp;
 &nbsp;
+<br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
 <br>
 <br>
