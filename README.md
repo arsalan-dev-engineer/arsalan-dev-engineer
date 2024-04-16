@@ -36,4 +36,3 @@ Let's connect and explore ways to work together.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy001&theme=tokyonight)
 <br>
 <br>
-![Visitor Count](https://profile-counter.glitch.me/{Azzy001}/count.svg)
