@@ -1,5 +1,3 @@
-### Hi, my name is Arsalan 👋
-
 <div align="center">
   <h1>🚀 Welcome to My Profile Dashboard! 🚀</h1>
   <p>This is my personal dashboard, where I showcase my skills, projects, and accomplishments. As a [Your Profession], I believe in the power of effective presentation, and this dashboard serves as a centralized hub for all things me!</p>
