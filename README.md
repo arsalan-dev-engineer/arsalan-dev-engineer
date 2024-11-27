@@ -25,16 +25,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arsalan-dev-engineer&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-![Snake animation](https://github.com/arsalan-dev-engineer/arsalan-dev-engineer/blob/output/github-contribution-grid-snake.svg)
-<br>
-
 ![](https://komarev.com/ghpvc/?username=arsalan-dev-engineer&color=brightgreen)
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arsalan-dev-engineer&repo=repo-name&theme=radical)](https://github.com/arsalan-dev-engineer/repo-name)
 <br>
 
-[![Arsalan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arsalan_dev_engineer&theme=radical)](https://wakatime.com/@arsalan_dev_engineer)
+[![Arsalan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arsalan-dev-engineer&theme=radical)](https://wakatime.com/@arsalan_dev_engineer)
 <br>
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist/?username=arsalan-dev-engineer&id=GIST_ID&theme=radical)](https://gist.github.com/arsalan-dev-engineer/GIST_ID)
