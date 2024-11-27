@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: arsalan-dev-engineer
-          template: classic
+          template: compact
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           plugin_code: yes
