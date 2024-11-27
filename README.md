@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm an AWS Associate DevOps Engineer passionate ab
 
 <br>
 
-## Connect with me
-
 <table style="width:100%; table-layout:fixed; text-align:center;">
   <tr>
     <td style="width:33%; padding:10px;">
