@@ -2,8 +2,8 @@
 
 | **Welcome to my GitHub Profile!**                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------|
-| I'm an AWS Associate DevOps Engineer with a passion for cloud technologies, automation, and IT solutions. I specialize in helping businesses streamline their operations using cutting-edge technologies. |
-| I am open to freelancing opportunities and also offer teaching services for individuals of all ages. Whether you need help with DevOps, cloud computing, or general IT skills, I can provide personalized guidance and support. |
+| I'm an AWS Associate DevOps Engineer with a passion for cloud technologies, automation, and IT solutions. I specialise in helping businesses streamline their operations using cutting-edge technologies. |
+| I am open to freelancing opportunities and also offer teaching services for individuals of all ages. Whether you need help with DevOps, cloud computing, or general IT skills, I can provide personalised guidance and support. |
 
 <br>
 
