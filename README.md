@@ -18,5 +18,3 @@
   </tr>
 </table>
 <br>
-
-![Metrics](/github-metrics.svg)
