@@ -26,7 +26,6 @@
 <!-- GITHUB STATS IN ONE ROW -->
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=arsalan-dev-engineer&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arsalan-dev-engineer&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan-dev-engineer&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
